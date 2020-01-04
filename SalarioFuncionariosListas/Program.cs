@@ -7,6 +7,7 @@ namespace SalarioFuncionariosListas {
     class Program {
         static void Main(string[] args) {
 
+            Console.WriteLine("Projeto em Ingles");
             Console.WriteLine("How many employess will be registered:");
             int qt = int.Parse(Console.ReadLine());
 
